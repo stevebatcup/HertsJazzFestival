@@ -22,7 +22,7 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'autoprefixer-rails', '8.3.0'
-gem 'nokogiri', '1.8.2'
+gem 'nokogiri', '1.13.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
